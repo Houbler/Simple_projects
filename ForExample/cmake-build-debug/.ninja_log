@@ -1,0 +1,5 @@
+# ninja log v5
+2	522	6769079662733185	build.ninja	e268b0a18aafe46a
+1	1631	6769074587118371	CMakeFiles/ForExample.dir/functions.cpp.obj	fd036aab219acfa2
+5	1582	6769074586649401	CMakeFiles/ForExample.dir/main.cpp.obj	7b71ff56839b606a
+1632	1990	6769074590710937	ForExample.exe	c8b7791533afaa1a
