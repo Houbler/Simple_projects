@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d23fffc58d77eca48af884f975ff4f13
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GWENT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 541c5db3cc79ccb4e891533f52188946, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

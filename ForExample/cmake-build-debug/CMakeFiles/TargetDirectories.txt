@@ -1,3 +1,0 @@
-C:/Users/konni/CLionProjects/ForExample/cmake-build-debug/CMakeFiles/ForExample.dir
-C:/Users/konni/CLionProjects/ForExample/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/konni/CLionProjects/ForExample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
